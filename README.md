@@ -70,9 +70,16 @@ Property  | Type  |  Require
  after_render  |  invoke after render form in DOM
  submit  |  invoke before submit with values of all inputs
  
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+ 
+## API - ```Instance methods```
+```javascript
+notify.render(DOMNode) // Render form to DOM node
+notify.close() // Close/hide form
+notify.show() // Show form
+notify.getData() // Get values of all inputs
+notify.onSubmit() // Invoke submit
+notify.unmount() // Remove form from DOM node
+```
 
 ## Authors
 
