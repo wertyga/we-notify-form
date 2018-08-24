@@ -1,4 +1,4 @@
-// import WeNotify from '../WeNotifyForm/WeNotify'
+
 
 import WeNotify from 'we-notify-form'
 

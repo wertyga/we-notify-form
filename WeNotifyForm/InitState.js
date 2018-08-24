@@ -27,7 +27,6 @@ export default {
         name: 'submit',
         type: 'submit',
         label: 'Submit',
-
     },
     buttons: [],
 }
