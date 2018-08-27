@@ -2,7 +2,7 @@
 
 ## Installing
 ```
-npm install --save-dev we-notify-form
+npm install --save we-notify-form
 ```
 
 ## Getting Started
